@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SHS Student Registration</string>
+    <string-array name="program_array">
+        <item>ABM</item>
+        <item>STEM</item>
+        <item>TVL</item>
+    </string-array>
+
+</resources>
